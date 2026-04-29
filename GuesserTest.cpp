@@ -21,6 +21,8 @@ TEST(GuesserTest, smoke_test)
   ASSERT_EQ( 1+1, 2 );
 }
 
+// my tests
+
 TEST(GuesserTest, GuessMatch)
 {
     Guesser guess("Secret");
